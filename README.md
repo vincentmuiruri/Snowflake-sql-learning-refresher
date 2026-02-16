@@ -58,3 +58,4 @@ Run the script in `/setup/create_sample_data.sql` to create all sample tables an
 ## 🔗 Resources
 - [Snowflake Documentation](https://docs.snowflake.com/)
 - [SQL Style Guide](https://www.sqlstyle.guide/)
+- [Advanced SQL Learning](https://www.programiz.com/sql)
