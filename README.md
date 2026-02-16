@@ -1,4 +1,4 @@
-# Snowflake-sql-learning-refresher
+# ❄️ Snowflake-sql-learning-refresher
 
 Advanced SQL Learning materials and practice queries on Snowflake.
 # Snowflake SQL Learning Repository
